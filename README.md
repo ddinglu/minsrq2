@@ -4,9 +4,9 @@ Dated 		06-20-2024
 
 This folder contains the MATLAB codes used in the research paper:
 
->* Eigenvalue Backward Errors of Rosenbrock Systems and Optimization of Sums of Rayleigh Quotient*
+> *Eigenvalue Backward Errors of Rosenbrock Systems and Optimization of Sums of Rayleigh Quotient*
 by Shreemayee Bora, Ding Lu, Anshul Prajapati, and Punit Sharma.
-Technical Report, 2024.
+Technical Report [arXiv:2407.03784], 2024.
 
 
 ## Description
